@@ -14,6 +14,11 @@ const liste = [
       description:"Elle a dit : « Mon prophète, j'ai rêvé que j'étais dans un désert avec mon fils dans mes bras. Le sable de ce désert était blanc. Et des chiens étaient lâchés contre moi...",
       image:"https://img.freepik.com/free-photo/young-brunette-woman-lying-bed_273609-21433.jpg?size=626&ext=jpg&uid=R26917144&ga=GA1.2.498130083.1663108414&semt=ais"
     },
+
+    {
+        label :"Faux cheveux, maquillages, dépigmentation ...",
+        description :"Sois conscient de la présence de Satan qui est là pour pervertir la vérité."
+    }
     
   ];
 
@@ -85,6 +90,23 @@ const liste = [
             {
                 label :"Kacou 149",
                 texte :"90   Les chiens qu’elle a vus, ce sont les églises évangéliques qu’elle allait fréquenter. Et longtemps, après le rêve, elle a rejoint le taureau noir qui est le branhamisme. Puis en 2017, elle a rencontré cet Ange du 24 avril 1993. Le dragon d'Apocalypse 12 a donc aussi des têtes de chien et de taureau en plus des têtes de lion, de grenouille, de serpent, de bélier et de bouc. Et le béret rouge est pour le jugement et le châtiment des nations. C’est le même Ange Michaël descendant du Ciel et tenant l’épée dans Josué 6 et dans la vision du 24 avril 1993. Et les sandales, c’est le zèle et les œuvres qui sont la robe des noces."
+            }
+        ]
+    },
+
+    {
+        versets : [
+            {
+                label :"Kacou 157",
+                texte :"11   Sois conscient de la présence de Satan qui est là pour pervertir la vérité. Par exemple, quand le prophète messager te fait connaître que les contraceptifs, les maquillages, la dépigmentation ou l'éclaircissement de la peau et le port de faux cheveux sont des injures contre Dieu et contre son pouvoir de création, Satan sera là pour tordre ta compréhension."
+            },
+            {
+                label :"Kacou 157",
+                texte :"12   Satan te dira : « Ah oui, l'éclaircissement de la peau est mauvais. Mais, ce produit cosmétique n’est pas un produit éclaircissant. C’est juste un produit pour faire ressortir ton vrai teint, c’est pour juste faire briller ta peau ». C’est ce que Satan avait fait en Éden et Lili l’avait écouté. C'est le serpent qui se débarrasse de sa peau morte pour faire briller son teint."
+            },
+            {
+                label :"Kacou 74",
+                texte :"6 Une jeune fille noire va essayer de se dépigmenter, elle va utiliser des produits cosmétiques de toutes sortes et pour un temps elle va tendre vers la blancheur de la peau. Mais ce ne sera rien d’autre qu’un conflit entre le teint blanc qu’elle essaie d’avoir et son propre teint noir qui finira par l’emporter à cause de l’impact du sang. Et c’est exactement ce que nous retrouvons dans Juges chapitre 12. De sorte que dans un même pays, il y a des gens qui peuvent prononcer des mots et d’autres qui ne le peuvent pas. Chaque habitant de la terre a un accent qui le suit partout où il va même lorsqu’il essaie de parler une autre langue qui n’est pas sa langue. Qu’est-ce que c’est? C’est l’impact du sang. [Ndr: l'assemblée dit: « Amen! »]."
             }
         ]
     }
