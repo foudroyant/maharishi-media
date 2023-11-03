@@ -1,14 +1,21 @@
 const liste = [
     {
+        label : "Bouche à bouche & Tumeur ou un cancer de sein",
+        description : "Le péché de bouche à bouche est aussi grave qu'un péché de rapport sexuel."
+    },
+
+    {
       label: "Symboles dans les rêves.", 
       description:"Tomber dans le vide, c'est une chute dans l'échelle de la spiritualité. Se voir à l’école, à la cour familiale ou sur le lieu de ton enfance, ce sont des niveaux de spiritualité pour voir des choses à corriger...",
       image:"https://img.freepik.com/free-photo/young-brunette-woman-lying-bed_273609-21433.jpg?size=626&ext=jpg&uid=R26917144&ga=GA1.2.498130083.1663108414&semt=ais"
     },
+
     {
         label: "Le rêve de la Soeur Sœur Laure Edziang", 
         description:"La Sœur Laure Edziang m’a dit : « Frère Philippe, je ne savais rien de Dieu et je n’avais jamais été dans une église et j’ai rêvé et voici, nous étions rassemblés au-dessus de la terre...",
         image:"https://img.freepik.com/free-photo/young-brunette-woman-lying-bed_273609-21433.jpg?size=626&ext=jpg&uid=R26917144&ga=GA1.2.498130083.1663108414&semt=ais"
       },
+
     {
       label: "Le songe de la Sœur Liliana Heredia d’Amérique latine", 
       description:"Elle a dit : « Mon prophète, j'ai rêvé que j'étais dans un désert avec mon fils dans mes bras. Le sable de ce désert était blanc. Et des chiens étaient lâchés contre moi...",
@@ -19,14 +26,29 @@ const liste = [
         label :"Faux cheveux, maquillages, dépigmentation ...",
         description :"Sois conscient de la présence de Satan qui est là pour pervertir la vérité."
     },
-    {
-        label : "Bouche à bouche & Tumeur ou un cancer de sein",
-        description : "Le péché de bouche à bouche est aussi grave qu'un péché de rapport sexuel."
-    }
     
   ];
 
   const Contenu = [
+     //Bouche à bouche
+     {
+        versets : [
+            {
+                label : "Kacou  156",
+                texte : "37 Le péché de bouche à bouche est aussi grave qu’un péché de rapport sexuel. Et la salive que tu reçois ne sera pas éliminée par les selles ou les urines mais elle deviendra des maladies dans ton corps, telles que des ulcères ou des angines de poitrine sans fin. Et cela est encore plus grave si tu as déjà entendu parler de Kacou Philippe, même si tu n'as pas cru en lui."
+            },
+            {
+                label :"Kacou 158",
+                texte : "11 Bien. À travers Kacou 156, nous avons connu que lors des bouche à bouche, la salive du conjoint que vous recevez ne s'éliminera pas dans les selles et les urines. Cette salive deviendra donc des ulcères, des angines de poitrine, des tumeurs et des cancers et d’autres maladies sans fin dans votre corps. Cela peut tarder mais un jour, cela vous atteindra. Ne touchez à aucune chose dans le but de stimuler votre sexualité. Chaque acte contre nature que vous poserez aura une conséquence sur vous."
+            },
+            {
+                label :"Kacou 158",
+                texte : "12 J'ai aussi entendu dire qu'il y a des hommes et des femmes qui portent leur bouche vers les seins de leurs conjoints comme des bébés. C'est insolite. Même les animaux ne font pas cela. Une personne qui fait cela n’est pas un être humain mais c’est un humanoïde. Normalement un sein qui a subi cela est maudit et doit avoir une tumeur ou un cancer pour être coupé. La dépigmentation, les maquillages, les faux cheveux, les stimulants sexuels et les habits indécents, ce sont des esprits de sexe. Sachez que tout péché se paie."
+            }
+        ]
+    },
+
+    //Symboles des rêves
     {
         versets:[
             {
@@ -98,6 +120,7 @@ const liste = [
         ]
     },
 
+    //Faux cheveux
     {
         versets : [
             {
@@ -115,23 +138,6 @@ const liste = [
         ]
     },
 
-    //Bouche à bouche
-    {
-        versets : [
-            {
-                label : "Kacou  156",
-                texte : "37 Le péché de bouche à bouche est aussi grave qu’un péché de rapport sexuel. Et la salive que tu reçois ne sera pas éliminée par les selles ou les urines mais elle deviendra des maladies dans ton corps, telles que des ulcères ou des angines de poitrine sans fin. Et cela est encore plus grave si tu as déjà entendu parler de Kacou Philippe, même si tu n'as pas cru en lui."
-            },
-            {
-                label :"Kacou 158",
-                texte : "11 Bien. À travers Kacou 156, nous avons connu que lors des bouche à bouche, la salive du conjoint que vous recevez ne s'éliminera pas dans les selles et les urines. Cette salive deviendra donc des ulcères, des angines de poitrine, des tumeurs et des cancers et d’autres maladies sans fin dans votre corps. Cela peut tarder mais un jour, cela vous atteindra. Ne touchez à aucune chose dans le but de stimuler votre sexualité. Chaque acte contre nature que vous poserez aura une conséquence sur vous."
-            },
-            {
-                label :"Kacou 158",
-                texte : "12 J'ai aussi entendu dire qu'il y a des hommes et des femmes qui portent leur bouche vers les seins de leurs conjoints comme des bébés. C'est insolite. Même les animaux ne font pas cela. Une personne qui fait cela n’est pas un être humain mais c’est un humanoïde. Normalement un sein qui a subi cela est maudit et doit avoir une tumeur ou un cancer pour être coupé. La dépigmentation, les maquillages, les faux cheveux, les stimulants sexuels et les habits indécents, ce sont des esprits de sexe. Sachez que tout péché se paie."
-            }
-        ]
-    }
   ]
 
  export default {
