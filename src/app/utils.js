@@ -18,6 +18,10 @@ const liste = [
     {
         label :"Faux cheveux, maquillages, dépigmentation ...",
         description :"Sois conscient de la présence de Satan qui est là pour pervertir la vérité."
+    },
+    {
+        label : "Bouche à bouche & Tumeur ou un cancer de sein",
+        description : "Le péché de bouche à bouche est aussi grave qu'un péché de rapport sexuel."
     }
     
   ];
@@ -107,6 +111,24 @@ const liste = [
             {
                 label :"Kacou 74",
                 texte :"6 Une jeune fille noire va essayer de se dépigmenter, elle va utiliser des produits cosmétiques de toutes sortes et pour un temps elle va tendre vers la blancheur de la peau. Mais ce ne sera rien d’autre qu’un conflit entre le teint blanc qu’elle essaie d’avoir et son propre teint noir qui finira par l’emporter à cause de l’impact du sang. Et c’est exactement ce que nous retrouvons dans Juges chapitre 12. De sorte que dans un même pays, il y a des gens qui peuvent prononcer des mots et d’autres qui ne le peuvent pas. Chaque habitant de la terre a un accent qui le suit partout où il va même lorsqu’il essaie de parler une autre langue qui n’est pas sa langue. Qu’est-ce que c’est? C’est l’impact du sang. [Ndr: l'assemblée dit: « Amen! »]."
+            }
+        ]
+    },
+
+    //Bouche à bouche
+    {
+        versets : [
+            {
+                label : "Kacou  156",
+                texte : "37 Le péché de bouche à bouche est aussi grave qu’un péché de rapport sexuel. Et la salive que tu reçois ne sera pas éliminée par les selles ou les urines mais elle deviendra des maladies dans ton corps, telles que des ulcères ou des angines de poitrine sans fin. Et cela est encore plus grave si tu as déjà entendu parler de Kacou Philippe, même si tu n'as pas cru en lui."
+            },
+            {
+                label :"Kacou 158",
+                texte : "11 Bien. À travers Kacou 156, nous avons connu que lors des bouche à bouche, la salive du conjoint que vous recevez ne s'éliminera pas dans les selles et les urines. Cette salive deviendra donc des ulcères, des angines de poitrine, des tumeurs et des cancers et d’autres maladies sans fin dans votre corps. Cela peut tarder mais un jour, cela vous atteindra. Ne touchez à aucune chose dans le but de stimuler votre sexualité. Chaque acte contre nature que vous poserez aura une conséquence sur vous."
+            },
+            {
+                label :"Kacou 158",
+                texte : "12 J'ai aussi entendu dire qu'il y a des hommes et des femmes qui portent leur bouche vers les seins de leurs conjoints comme des bébés. C'est insolite. Même les animaux ne font pas cela. Une personne qui fait cela n’est pas un être humain mais c’est un humanoïde. Normalement un sein qui a subi cela est maudit et doit avoir une tumeur ou un cancer pour être coupé. La dépigmentation, les maquillages, les faux cheveux, les stimulants sexuels et les habits indécents, ce sont des esprits de sexe. Sachez que tout péché se paie."
             }
         ]
     }
